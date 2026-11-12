@@ -1,0 +1,21 @@
+filename,state,roof_material,wall_material,safety_features_vents,fire_risk_percent,actual,predicted,prob_prone,correct
+image_002.jpg,texas,shingle,wood,yes,85,prone,prone,0.984,True
+image_004.jpg,colorado,asphalt,wood,yes,78,prone,prone,0.996,True
+image_007.jpg,colorado,wood,vinyl,no,88,prone,prone,0.99,True
+image_009.jpg,colorado,shingle,wood,no,90,prone,prone,1.0,True
+image_014.jpg,colorado,asphalt,wood,no,80,prone,prone,1.0,True
+image_020.jpg,arizona,asphalt,wood,no,79,prone,prone,0.999,True
+image_025.jpg,california,wood,vinyl,no,91,prone,prone,0.986,True
+image_026.jpg,oregon,shingle,wood,yes,74,prone,prone,0.998,True
+image_028.jpg,oregon,wood,vinyl,yes,75,prone,prone,0.857,True
+image_049.jpg,california,shingle,vinyl,yes,55,prone,prone,0.979,True
+image_053.jpg,texas,tile,stucco,yes,32,not prone,not prone,0.002,True
+image_063.jpg,colorado,shingle,vinyl,no,64,prone,prone,0.998,True
+image_067.jpg,california,tile,vinyl,yes,43,not prone,not prone,0.285,True
+image_073.jpg,arizona,concrete,stucco,yes,16,not prone,not prone,0.006,True
+image_075.jpg,oregon,concrete,stucco,no,19,not prone,not prone,0.062,True
+image_077.jpg,arizona,concrete,stucco,yes,17,not prone,not prone,0.006,True
+image_083.jpg,arizona,tile,stucco,yes,21,not prone,not prone,0.012,True
+image_093.jpg,colorado,metal,stucco,no,31,not prone,not prone,0.016,True
+image_097.jpg,california,metal,concrete,no,29,not prone,not prone,0.006,True
+image_100.jpg,california,metal,concrete,yes,25,not prone,not prone,0.001,True

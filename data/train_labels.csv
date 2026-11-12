@@ -1,0 +1,81 @@
+filename,state,county,roof_material,wall_material,safety_features_vents,fire_risk_percent
+image_001.jpg,arizona,Maricopa County,shingle,wood,no,95
+image_003.jpg,texas,Travis County,shingle,wood,no,92
+image_005.jpg,texas,Travis County,asphalt,vinyl,no,82
+image_006.jpg,colorado,Boulder County,asphalt,wood,yes,75
+image_008.jpg,california,Sonoma County,shingle,wood,no,93
+image_010.jpg,colorado,El Paso County,shingle,vinyl,no,85
+image_011.jpg,colorado,Jefferson County,shingle,vinyl,no,87
+image_012.jpg,oregon,Jackson County,shingle,vinyl,no,86
+image_013.jpg,oregon,Lane County,wood,vinyl,no,89
+image_015.jpg,colorado,El Paso County,asphalt,wood,no,81
+image_016.jpg,arizona,Coconino County,shingle,vinyl,no,84
+image_017.jpg,colorado,El Paso County,wood,wood,yes,83
+image_018.jpg,texas,Hays County,wood,wood,no,94
+image_019.jpg,oregon,Douglas County,asphalt,wood,yes,72
+image_021.jpg,oregon,Jackson County,wood,vinyl,no,88
+image_022.jpg,colorado,Boulder County,wood,vinyl,yes,76
+image_023.jpg,colorado,Jefferson County,asphalt,vinyl,no,77
+image_024.jpg,oregon,Lane County,shingle,vinyl,no,85
+image_027.jpg,oregon,Lane County,asphalt,wood,no,78
+image_029.jpg,arizona,Coconino County,wood,wood,no,96
+image_030.jpg,oregon,Lane County,shingle,wood,no,89
+image_031.jpg,arizona,Coconino County,asphalt,wood,no,82
+image_032.jpg,arizona,Coconino County,shingle,vinyl,no,86
+image_033.jpg,california,San Diego County,asphalt,vinyl,yes,68
+image_034.jpg,oregon,Lane County,wood,vinyl,no,87
+image_035.jpg,colorado,Jefferson County,shingle,vinyl,yes,73
+image_036.jpg,oregon,Jackson County,shingle,vinyl,no,84
+image_037.jpg,colorado,Jefferson County,shingle,vinyl,no,85
+image_038.jpg,arizona,Coconino County,asphalt,vinyl,yes,70
+image_039.jpg,oregon,Douglas County,shingle,wood,no,90
+image_040.jpg,california,Sonoma County,asphalt,vinyl,no,79
+image_041.jpg,colorado,El Paso County,metal,vinyl,yes,42
+image_042.jpg,arizona,Coconino County,metal,vinyl,no,48
+image_043.jpg,colorado,El Paso County,tile,stucco,no,35
+image_044.jpg,california,San Diego County,metal,vinyl,yes,38
+image_045.jpg,texas,Bexar County,metal,vinyl,no,45
+image_046.jpg,colorado,Boulder County,shingle,stucco,yes,52
+image_047.jpg,texas,Hays County,tile,wood,no,58
+image_048.jpg,arizona,Maricopa County,shingle,wood,yes,65
+image_050.jpg,arizona,Coconino County,metal,vinyl,yes,40
+image_051.jpg,arizona,Coconino County,tile,wood,yes,50
+image_052.jpg,california,Sonoma County,metal,wood,yes,46
+image_054.jpg,oregon,Lane County,shingle,vinyl,yes,57
+image_055.jpg,colorado,Boulder County,shingle,wood,yes,62
+image_056.jpg,oregon,Lane County,metal,wood,yes,44
+image_057.jpg,colorado,El Paso County,shingle,wood,yes,60
+image_058.jpg,california,Sonoma County,metal,wood,no,52
+image_059.jpg,oregon,Douglas County,tile,stucco,no,38
+image_060.jpg,arizona,Pima County,tile,stucco,no,36
+image_061.jpg,california,Butte County,metal,stucco,no,41
+image_062.jpg,oregon,Jackson County,metal,wood,yes,47
+image_064.jpg,arizona,Maricopa County,tile,wood,yes,53
+image_065.jpg,arizona,Coconino County,metal,vinyl,no,49
+image_066.jpg,california,Los Angeles County,tile,vinyl,no,56
+image_068.jpg,texas,Bexar County,tile,wood,yes,48
+image_069.jpg,oregon,Douglas County,metal,wood,no,54
+image_070.jpg,oregon,Lane County,metal,wood,no,51
+image_071.jpg,california,Sonoma County,concrete,stucco,yes,18
+image_072.jpg,arizona,Maricopa County,concrete,concrete,no,15
+image_074.jpg,california,Sonoma County,concrete,concrete,yes,12
+image_076.jpg,texas,Bexar County,tile,brick,no,22
+image_078.jpg,arizona,Pima County,concrete,brick,no,14
+image_079.jpg,arizona,Coconino County,tile,concrete,yes,20
+image_080.jpg,california,Sonoma County,tile,concrete,no,24
+image_081.jpg,colorado,Jefferson County,metal,brick,yes,25
+image_082.jpg,texas,Bexar County,concrete,stucco,yes,16
+image_084.jpg,colorado,El Paso County,tile,concrete,no,26
+image_085.jpg,colorado,Jefferson County,metal,stucco,yes,28
+image_086.jpg,oregon,Lane County,concrete,brick,no,18
+image_087.jpg,arizona,Coconino County,metal,brick,yes,23
+image_088.jpg,california,San Diego County,tile,brick,yes,19
+image_089.jpg,texas,Bexar County,metal,concrete,yes,27
+image_090.jpg,texas,Bexar County,concrete,concrete,no,13
+image_091.jpg,texas,Travis County,concrete,concrete,yes,11
+image_092.jpg,texas,Travis County,tile,brick,yes,20
+image_094.jpg,california,Los Angeles County,concrete,brick,yes,15
+image_095.jpg,colorado,Jefferson County,metal,brick,yes,24
+image_096.jpg,texas,Travis County,tile,brick,yes,21
+image_098.jpg,texas,Bexar County,metal,stucco,yes,26
+image_099.jpg,california,San Diego County,concrete,brick,no,17

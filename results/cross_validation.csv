@@ -1,0 +1,4 @@
+model,cv_accuracy,cv_std,best_settings
+tabular,0.941,0.063,{'clf__C': 10}
+combined,0.924,0.063,"{'clf__C': 10, 'prep__img__pca__n_components': 5}"
+image,0.809,0.088,"{'clf__C': 0.01, 'prep__img__pca__n_components': 40}"

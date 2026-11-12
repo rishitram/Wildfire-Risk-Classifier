@@ -1,0 +1,21 @@
+filename,state,county,roof_material,wall_material,safety_features_vents,fire_risk_percent
+image_002.jpg,texas,Hays County,shingle,wood,yes,85
+image_004.jpg,colorado,Jefferson County,asphalt,wood,yes,78
+image_007.jpg,colorado,Jefferson County,wood,vinyl,no,88
+image_009.jpg,colorado,Boulder County,shingle,wood,no,90
+image_014.jpg,colorado,El Paso County,asphalt,wood,no,80
+image_020.jpg,arizona,Maricopa County,asphalt,wood,no,79
+image_025.jpg,california,Los Angeles County,wood,vinyl,no,91
+image_026.jpg,oregon,Lane County,shingle,wood,yes,74
+image_028.jpg,oregon,Douglas County,wood,vinyl,yes,75
+image_049.jpg,california,San Diego County,shingle,vinyl,yes,55
+image_053.jpg,texas,Travis County,tile,stucco,yes,32
+image_063.jpg,colorado,Boulder County,shingle,vinyl,no,64
+image_067.jpg,california,Butte County,tile,vinyl,yes,43
+image_073.jpg,arizona,Coconino County,concrete,stucco,yes,16
+image_075.jpg,oregon,Douglas County,concrete,stucco,no,19
+image_077.jpg,arizona,Coconino County,concrete,stucco,yes,17
+image_083.jpg,arizona,Maricopa County,tile,stucco,yes,21
+image_093.jpg,colorado,Boulder County,metal,stucco,no,31
+image_097.jpg,california,San Diego County,metal,concrete,no,29
+image_100.jpg,california,San Diego County,metal,concrete,yes,25

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Windows / OneDrive folder settings
+desktop.ini
+Thumbs.db
+
+# Editor / tool settings
+.vscode/
+.idea/
+.claude/
