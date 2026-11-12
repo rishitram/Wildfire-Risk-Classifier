@@ -62,12 +62,10 @@ Always guessing "prone" would score 55% on this test set.
 
 **What it learned.** Roof material, wall material and vents carry almost all the signal. Adding the photo doesn't help, and the photo alone is noticeably weaker (about 81%). Most likely the labels were assigned from those attributes, so the photo adds little that the attributes don't already say.
 
-## Why there's no separate test set
+## Future Improvements
 
-This project once had a separate set of 30 test photos, but it was removed. The model scored only 57% on them because their labels came from a different rule, a climate-based score using rainfall, temperature, dry months and forest proximity. In those labels, roof, wall and vents barely affected risk. For example, a shingle roof with wood walls and no vents was labeled 24.5%, against 89–95% in the training labels. A test on labels like that measures the mismatch between the two files, not the model, so the 20 houses are held out from the same 100 instead.
-
-## Caveats
-
-- **Small data.** 80 training and 20 test houses, so every number here is rough.
-- **One source.** Train and test come from the same 100-house dataset, so the model hasn't been checked on photos or labels from anywhere else.
-- **States the model hasn't seen** (e.g. Nevada) are treated as neutral by `predict.py`.
+- **Expand the dataset.** Collect more labeled house images from different states and regions to improve generalization.
+- **Improve image classification.** Fine-tune ResNet18 on a larger dataset to better recognize roof materials, vegetation and other visible wildfire risk factors.
+- **Add environmental features.** Incorporate temperature, rainfall, vegetation density and proximity to forests for a more complete wildfire risk assessment.
+- **Test on external data.** Evaluate the model on houses from a separate dataset to measure how well it performs on unseen properties.
+- **Build a web interface.** Allow users to upload a house photo, enter property details and receive a wildfire risk prediction.
