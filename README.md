@@ -68,4 +68,4 @@ Always guessing "prone" would score 55% on this test set.
 - **Improve image classification.** Fine-tune ResNet18 on a larger dataset to better recognize roof materials, vegetation and other visible wildfire risk factors.
 - **Add environmental features.** Incorporate temperature, rainfall, vegetation density and proximity to forests for a more complete wildfire risk assessment.
 - **Test on external data.** Evaluate the model on houses from a separate dataset to measure how well it performs on unseen properties.
-- **Build a web interface.** Allow users to upload a house photo, enter property details and receive a wildfire risk prediction.
+- **Build a web interface or mobile app (currently being developed).** Allow users to upload a house photo, enter property details and receive a wildfire risk prediction.
