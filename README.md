@@ -41,7 +41,7 @@ Requirements: Python with `torch`, `torchvision`, `scikit-learn`, `pandas`, `mat
 
 ## How the model works
 
-1. **Image features.** Each photo goes through ResNet18, a CNN pretrained on ImageNet. It turns the photo into 512 numbers that describe what's in it. The CNN is *frozen*: it isn't retrained on these photos, because 80 images is too few to fine-tune it without memorizing them.
+1. **Image features.** Each photo goes through ResNet18, a CNN pretrained on ImageNet. It turns the photo into 512 numbers that describe what's in it. The CNN is frozen, meaning its pretrained weights aren't updated. Since the dataset only contains 80 training images, this helps reduce overfitting while still allowing us to extract useful visual features from each house.
 2. **House attributes.** State, roof, wall and vents are one-hot encoded. County is left out because most counties appear only once or twice.
 3. **Classifier.** A logistic regression predicts prone or not prone. `train.py` tries three versions: attributes only, image only, and both combined. It tunes each with 5-fold cross-validation repeated 10 times, **using only the 80 training houses**, and keeps the version with the best cross-validated accuracy.
 4. **Test.** `evaluate.py` scores that one chosen model on the 20 held-out houses.
